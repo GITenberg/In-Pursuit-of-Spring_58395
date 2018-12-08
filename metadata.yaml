@@ -1,10 +1,13 @@
 _repo: In-Pursuit-of-Spring_58395
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hazelhurst, Ernest
     gutenberg_agent_id: '49927'
     url: http://www.gutenberg.org/2009/agents/49927
+covers:
+- cover_type: archival
+  image_path: 58395-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomas, Edward
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6876
     wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58395#In-Pursuit-of-Spring
 gutenberg_issued: '2018-12-01'
 gutenberg_type: Text
 identifiers:
